@@ -1,0 +1,9 @@
+{
+	"name": "trading-system-factory-1500",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "070ceff2-e7db-43b0-87a0-4a667bd44a50",
+		"tenantId": "ec3eb4f3-9fc4-4dfd-8d76-53d30f8aa5b3"
+	}
+}
