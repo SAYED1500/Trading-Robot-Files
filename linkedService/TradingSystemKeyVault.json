@@ -1,0 +1,11 @@
+{
+	"name": "TradingSystemKeyVault",
+	"properties": {
+		"description": "A link to out Azure key Vault",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://SAYED.vault.azure.net/"
+		}
+	}
+}
